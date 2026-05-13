@@ -2,3 +2,4 @@
 Repositório criado para publicar os projetos de Lógica de Programação com JavaScript
 
 Cursos feitos pela Plataforma Alura
+Durante os estudos junto à empresa PerformaIT
